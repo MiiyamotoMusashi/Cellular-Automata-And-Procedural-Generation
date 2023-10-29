@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_slider_create_limit","order":4,"path":"objects/obj_slider_create_limit/obj_slider_create_limit.yy",},
+    {"name":"obj_slider_spawn_chance","order":2,"path":"objects/obj_slider_spawn_chance/obj_slider_spawn_chance.yy",},
+    {"name":"spr_slider_button","order":1,"path":"sprites/spr_slider_button/spr_slider_button.yy",},
+    {"name":"obj_ca_map","order":1,"path":"objects/obj_ca_map/obj_ca_map.yy",},
+    {"name":"cellular_automata_scripts","order":11,"path":"scripts/cellular_automata_scripts/cellular_automata_scripts.yy",},
+    {"name":"spr_slider_bar","order":2,"path":"sprites/spr_slider_bar/spr_slider_bar.yy",},
+    {"name":"obj_slider_destroy_limit","order":3,"path":"objects/obj_slider_destroy_limit/obj_slider_destroy_limit.yy",},
+    {"name":"global_variables","order":12,"path":"scripts/global_variables/global_variables.yy",},
+  ],
+}
